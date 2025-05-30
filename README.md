@@ -12,3 +12,6 @@ for the given model.  We train it by 2 or 3 models, then also predict the best m
 Here did this methods to analyse the power consumption of daily, weekly and monthly basis.
 Some graphs also used as correlation matrix heatmap, kde plot, barplot and so on.
 
+i have used Machine Learning algorithms are Linear Regression, Randam Forest Regressor, Decision Tree, Gradient boost regressor for train and test.
+After that i have found that best model to perform good for this huge dataset is Random Forest Regressor.
+
